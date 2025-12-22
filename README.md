@@ -21,6 +21,14 @@ It is designed as both a functional productivity tool and a portfolio project de
 
 ---
 
+## Get started
+
+1. **Create a Notebook** – First, create a notebook to organize your notes.  
+2. **Add Notes** – Once a notebook exists, you can start adding notes inside it.  
+3. **Add More Notebooks** – You can create multiple notebooks to categorize different types of notes.  
+
+---
+
 ## Tech Stack
 
 - HTML5  
@@ -28,7 +36,6 @@ It is designed as both a functional productivity tool and a portfolio project de
 - JavaScript (Vanilla)  
 
 ---
-
 ## Purpose
 
 This project was created to practice real-world frontend development concepts such as modular JavaScript, DOM manipulation, UI component design, and project organization. It serves as a learning-focused yet portfolio-ready application.
